@@ -1,17 +1,7 @@
 
 # Bobb’s File List
 
-This page describes Bobb’s File List. The following topics are discussed:
-
-* [System Requirements](#sys_req)
-* [Installing Bobb’s File List](#install)
-* [Accessing Bobb’s File List](#access)
-* [Advanced Setup/Configuration](#setup)
-* [Troubleshooting](#troubleshoot)
-
-For licensing information please read the file named `LICENSE`.
-
-## System Requirements {#sys_req}
+## System Requirements
 
 ### Webserver:
 
@@ -36,13 +26,13 @@ For licensing information please read the file named `LICENSE`.
 
 * It is recommended that viewing of these text-based files (`README`s and PHP files) should be done in a highlighting editor such as PSPad ([www.pspad.com](http://www.pspad.com/)).
 
-## Installing Bobb’s File List {#install}
+## Installing Bobb’s File List
 
 Simply place filelist.php into a web server directory which has PHP 4.2.0 or higher installed. This can be renamed to anything you want, as long as it has a PHP-based extension or an extension recognized as PHP by the web server.
 
 Hint: Rename the file `index.php` to make it the default index for the directory.
 
-## Accessing Bobb’s File List {#access}
+## Accessing Bobb’s File List
 
 To access Bobb’s File List, open a web browser and type in the address of the file (e.g. `http://localhost/this/dir/filelist.php`).
 
@@ -52,7 +42,7 @@ That’s it!
 
 NOTE: If using `getid3()` for music or video files on large file systems (4000 or more files and directories), it is highly recommended to only use Unix-based operating systems such as Linux. Threaded operating systems such as Windows have known PHP issues that may cause problems in this software. Threaded operating systems may also have difficulty displaying hundreds of files in a single directory when using `getid3()`.
 
-## Advanced Setup/Configuration {#setup}
+## Advanced Setup/Configuration
 
 This is not required for the basic functioning of the program. Advanced configuration allows for further customization of the installation.
 
@@ -120,7 +110,7 @@ Variable | Syntax/value | example/default
 `line_break` | `"\n"` | This is the type of line break files created by this program. The program does not care what type you use as long as it is one of the following:<br/>`"\n"` -- General default; works on all systems, but may not format correctly on some text editors that were not designed for Unix-text viewing<br/>`"\r"` -- MacOS 9 and older default<br/>`"\n\r"` -- Windows/DOS default; this is the only line break that Notepad displays correctly
 `auto_icon` | `true` | This feature allows an administrator to edit the acceptable file extensions without having to change the linked icon images. Keep as `true` unless custom icons or obscure extensions (that icons should be linked to) are being used.
 
-## Troubleshooting {#troubleshoot}
+## Troubleshooting
 
 Symptom | Problem | Solution
 ---|---|---
