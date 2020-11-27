@@ -121,8 +121,6 @@ I am experiencing long load times, even on local connections to the server. | Es
 
 ---
 
-[sourceforge.net/projects/filelist/](https://sourceforge.net/projects/filelist/)
-
 Thanks for downloading Bobb’s File List!
 
 modified: <time>2005-04-08</time>
