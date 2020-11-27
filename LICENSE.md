@@ -11,9 +11,9 @@ Everyone is permitted to copy and distribute verbatim copies of this license doc
 
 ## Preamble
 
-The licenses for most software are designed to take away your freedom to share and change it. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users. This General Public License applies to most of the Free Software Foundation’s software and to any other program whose authors commit to using it. (Some other Free Software Foundation software is covered by the GNU Library General Public License instead.) You can apply it to your programs, too.
+The licenses for most software are designed to take away your freedom to share and change it. By contrast, the Affero General Public License is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users. This Public License applies to most of Affero’s software and to any other program whose authors commit to using it. (Some other Affero software is covered by the GNU Library General Public License instead.) You can apply it to your programs, too.
 
-When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs; and that you know you can do these things.
+When we speak of free software, we are referring to freedom, not price. This General Public License is designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs; and that you know you can do these things.
 
 To protect your rights, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. These restrictions translate to certain responsibilities for you if you distribute copies of the software, or if you modify it.
 
@@ -33,9 +33,9 @@ The precise terms and conditions for copying, distribution and modification foll
 
 <li>
 
-<p>This License applies to any program or other work which contains a notice placed by the copyright holder saying it may be distributed under the terms of this General Public License. The “Program”, below, refers to any such program or work, and a “work based on the Program” means either the Program or any derivative work under copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term “modification”.) Each licensee is addressed as “you”.</p>
+This License applies to any program or other work which contains a notice placed by the copyright holder saying it may be distributed under the terms of this Affero General Public License. The “Program”, below, refers to any such program or work, and a “work based on the Program” means either the Program or any derivative work under copyright law: that is to say, a work containing the Program or a portion of it, either verbatim or with modifications and/or translated into another language. (Hereinafter, translation is included without limitation in the term “modification”.) Each licensee is addressed as “you”.
 
-<p>Activities other than copying, distribution and modification are not covered by this License; they are outside its scope. The act of running the Program is not restricted, and the output from the Program is covered only if its contents constitute a work based on the Program (independent of having been made by running the Program). Whether that is true depends on what the Program does.</p>
+Activities other than copying, distribution and modification are not covered by this License; they are outside its scope. The act of running the Program is not restricted, and the output from the Program is covered only if its contents constitute a work based on the Program (independent of having been made by running the Program). Whether that is true depends on what the Program does.
 
 </li>
 
@@ -136,9 +136,9 @@ could satisfy both it and this License would be to refrain entirely from distrib
 
 <li>
 
-<p>The Free Software Foundation may publish revised and/or new versions of the General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
+<p>Affero Inc. may publish revised and/or new versions of the Affero General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.</p>
 
-<p>Each version is given a distinguishing version number. If the Program specifies a version number of this License which applies to it and “any later version”, you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of this License, you may choose any version ever published by the Free Software Foundation.</p>
+<p>Each version is given a distinguishing version number. If the Program specifies a version number of this License which applies to it and “any later version”, you have the option of following the terms and conditions either of that version or of any later version published by Affero, Inc. If the Program does not specify a version number of this License, you may choose any version ever published by Affero, Inc.</p>
 
 <p>You may also choose to redistribute modified versions of this program under any version of the Free Software Foundation’s GNU General Public License version 3 or higher, so long as that version of the GNU GPL includes terms and conditions substantially equivalent to those of this license.</p>
 
@@ -146,7 +146,7 @@ could satisfy both it and this License would be to refrain entirely from distrib
 
 <li>
 
-<p>If you wish to incorporate parts of the Program into other free programs whose distribution conditions are different, write to the author to ask for permission. For software which is copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.</p>
+<p>If you wish to incorporate parts of the Program into other free programs whose distribution conditions are different, write to the author to ask for permission. For software which is copyrighted by Affero, Inc., write to us; we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.</p>
 
 </li>
 
