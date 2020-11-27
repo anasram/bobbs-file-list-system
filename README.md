@@ -48,7 +48,7 @@ This is not required for the basic functioning of the program. Advanced configur
 
 ### Enabling `getid3()`
 
-* Download the latest stable version from [www.sourceforge.net/projects/getid3/](https://sourceforge.net/projects/getid3/).
+* Download the latest stable version from [sourceforge.net/projects/getid3/](https://sourceforge.net/projects/getid3/).
 * Extract it to the location of the File List file in a subdirectory called `getid3`. Make sure that `getid3/getid3/getid3.php` is a valid path from the File List file.
 
 _getid3_ will slow down File List’s process (more so on Windows than other operating systems) and there will most likely be some setup required to enable `getid3()`. Follow the instructions given and/or read `getid3()`’s readme file.
@@ -118,8 +118,6 @@ The pages don't load completely (using either Windows or Unix-based OS). Some fi
 I am running a Unix-based OS and every time I access the File List file I receive a "Cannot open/write to file (`filelist/_a filename here_`). Likely to be a permissions problem." Or even worse, a 403 Forbidden message pops up. | If the error says "Cannot open", then Apache (or your http server) does not have read access in the directory where File List is installed. If it says "Cannot write to", then Apache (or your http server) does not have write access in the directory where File List is installed in. | Depending on the owner of the folder, chmod 775 or 777 (775 if the current owner is Apache or your https server and 777 if the owner is something else -- possibly your login). | 
 I am running Windows and every time I access the File List file I receive a "Cannot write to file (`filelist/_a filename here_`). Likely to be a permissions problem." | Most likely, the File List file or the containing folder is set to "Read-only" in its properties. | Right-click on the containing folder, uncheck (or check, then uncheck) the "Read-only" attribute near the bottom, and click OK. Select "Apply changes to this folder, subfolders and files" and click OK. If this did not fix your problem, you may have more serious permission problems. | 
 I am experiencing long load times, even on local connections to the server. | Especially if `getid3()` is installed, the additional info column can take up a lot of processing time and resources as it gathers all the available info. This is a lot more significant as more files are added into a single directory. | Remove some files in the directory or disable the additional info column in the settings of the file (approx. line 47). If the problem still occurs with less than 20-30 files in the directory, there may be a more serious issue. Download the latest version of PHP and File List. If it still continues, report a bug to File List immediately.
-
----
 
 Thanks for downloading Bobb’s File List!
 
