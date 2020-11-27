@@ -28,9 +28,7 @@ Finally, any free program is threatened constantly by software patents. We wish 
 
 The precise terms and conditions for copying, distribution and modification follow.
 
-## GNU General Public License
-
-### Terms And Conditions For Copying, Distribution And Modification
+## Terms And Conditions For Copying, Distribution And Modification
 
 <ol start="0">
 
@@ -153,7 +151,11 @@ could satisfy both it and this License would be to refrain entirely from distrib
 
 </li>
 
-<h2>No Warranty</h2>
+</ol>
+
+## No Warranty
+
+<ol start="11">
 
 <li>
 
