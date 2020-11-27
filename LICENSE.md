@@ -1,12 +1,3 @@
----
-title: Affero General Public License 1
-description: Hosted here as a reference to its unofficial Arabic translation.
-language: en
-date: 2002-03
-pid: affero-gpl-1
-tags: Licensing, License, Affero
----
-
 <style type="text/css">
 ol ol	{list-style-type:lower-alpha;}
 </style>
@@ -19,7 +10,7 @@ ol ol	{list-style-type:lower-alpha;}
 Copyright © 2002 Affero Inc.<br/>
 510 Third Street - Suite 225, San Francisco, CA 94107, USA</p>
 
-<p><ins>This license is a modified version of the <a href="?foss-licenses/gnu-gpl2-en">GNU General Public License</a> copyright © 1989, 1991 Free Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of software over a computer network.</ins></p>
+<p>This license is a modified version of the GNU General Public License copyright © 1989, 1991 Free Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of software over a computer network.</p>
 
 <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.</p>
 
@@ -80,7 +71,7 @@ covered by the GNU Library General Public License instead.) You can apply it to 
 <p>If the modified program normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to print or display an announcement including an appropriate copyright notice and a notice that there is no warranty (or else, saying that you provide a warranty) and that users may redistribute the program under these conditions, and telling the user how to view a copy of this License. (Exception: if the Program itself is interactive but does not normally print such an announcement, your work based on the Program is not required to print an announcement.)</p>
 </li>
 <li>
-<p><ins>If the Program as you received it is intended to interact with users through a computer network and if, in the version you received, any user interacting with the Program was given the opportunity to request transmission to that user of the Program’s complete source code, you must not remove that facility from your modified version of the Program or work based on the Program, and must offer an equivalent opportunity for all users interacting with your Program through a computer network to request immediate transmission by HTTP of the complete source code of your modified version or other derivative work.</ins></p>
+<p>If the Program as you received it is intended to interact with users through a computer network and if, in the version you received, any user interacting with the Program was given the opportunity to request transmission to that user of the Program’s complete source code, you must not remove that facility from your modified version of the Program or work based on the Program, and must offer an equivalent opportunity for all users interacting with your Program through a computer network to request immediate transmission by HTTP of the complete source code of your modified version or other derivative work.</p>
 </li>
 </ol>
 
@@ -157,7 +148,7 @@ could satisfy both it and this License would be to refrain entirely from distrib
 
 <p>Each version is given a distinguishing version number. If the Program specifies a version number of this License which applies to it and “any later version”, you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of this License, you may choose any version ever published by the Free Software Foundation.</p>
 
-<p><ins>You may also choose to redistribute modified versions of this program under any version of the Free Software Foundation’s GNU General Public License version 3 or higher, so long as that version of the GNU GPL includes terms and conditions substantially equivalent to those of this license.</ins></p>
+<p>You may also choose to redistribute modified versions of this program under any version of the Free Software Foundation’s GNU General Public License version 3 or higher, so long as that version of the GNU GPL includes terms and conditions substantially equivalent to those of this license.</p>
 
 </li>
 
