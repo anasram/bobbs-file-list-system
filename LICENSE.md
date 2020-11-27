@@ -1,12 +1,9 @@
-<style type="text/css">
-ol ol	{list-style-type:lower-alpha;}
-</style>
 
 <h1>Affero General Public License
 <small>Version 1, <time datetime="2002-03">March 2002</time></small>
 </h1>
 
-Copyright © 2002 Affero Inc.
+Copyright © 2002 Affero Inc.<br/>
 510 Third Street - Suite 225, San Francisco, CA 94107, USA
 
 This license is a modified version of the GNU General Public License copyright © 1989, 1991 Free Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of software over a computer network.
