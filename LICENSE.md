@@ -1,4 +1,3 @@
-
 <h1>Affero General Public License
 <small>Version 1, <time datetime="2002-03">March 2002</time></small>
 </h1>
@@ -28,7 +27,7 @@ Finally, any free program is threatened constantly by software patents. We wish 
 
 The precise terms and conditions for copying, distribution and modification follow.
 
-## Terms And Conditions For Copying, Distribution And Modification
+## Terms and Conditions for Copying, Distribution and Modification
 
 <ol start="0">
 
