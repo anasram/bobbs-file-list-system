@@ -1,7 +1,3 @@
-<style type="text/css">
-ol ol	{list-style-type:lower-alpha;}
-</style>
-
 <h1>Affero General Public License
 <small>Version 1, <time datetime="2002-03">March 2002</time></small>
 </h1>
