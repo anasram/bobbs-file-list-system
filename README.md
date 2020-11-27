@@ -3,26 +3,26 @@
 
 ## System Requirements
 
-### Webserver:
+### Webserver
 
 * Webserver/PHP must have full permissions in its containing folder for this program to operate correctly.
 * An Apache-based host webserver is recommended ([www.apache.org](http://www.apache.org/)).
 
-### PHP:
+### PHP
 
 * PHP 4.2.0 or higher (certain features will be less optimized with PHP versions less than 4.3.0). The newest available version of PHP is recommended.
 * Note: If using Windows, PHP 4.3.6 or higher is strongly recommended ([www.php.net](https://www.php.net/)). Minimal testing has occurred with PHP5, so unless you want to test it for us, we recommend PHP4.
 
-### Memory:
+### Memory
 
 * At least 100KB of free memory on the server.
 
-### Browser:
+### Browser
 
 * Internet Explorer 6 or higher (www.microsoft.com) or other equivalent browsers is recommended.
 * Viewing of generated HTML pages must be done on a JavaScript enabled browser. Mozilla Firefox 1.0 or higher is recommended ([www.mozilla.org](https://www.mozilla.org/)).
 
-### Other:
+### Other
 
 * It is recommended that viewing of these text-based files (`README`s and PHP files) should be done in a highlighting editor such as PSPad ([www.pspad.com](http://www.pspad.com/)).
 
