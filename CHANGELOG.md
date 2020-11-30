@@ -1,3 +1,14 @@
+
+## 3.3.0 (2020-11-29)
+
+* New
+	* Default root directory is `/downloads`: `$root_dir= "/downloads";`.
+* Updated
+	* Renamed the main file `filelist.php` to `downloads.php`.
+	* Replaced `ereg_replace()` function with `preg_replace()`, so that it can work now under PHP 7.0.0+.
+	* Standard date format: `YYYY-MM-DD HH:II` in a `<time>` element.
+	* MIME type icons are Unicode emojis and client-side based, using [RichStyle](https://richstyle.org/) CSSs.
+
 ## 3.2.0 (2005-04-18)
 
 * New
