@@ -1,7 +1,7 @@
 
 # Bobb’s File List
 
-[Demo](https://www.richstyle.org/downloads)
+[Demo](https://richstyle.org/downloads)
 
 ## System Requirements
 
