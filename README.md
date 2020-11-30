@@ -12,8 +12,9 @@
 
 ### PHP
 
-* PHP 4.2.0 or higher (certain features will be less optimized with PHP versions less than 4.3.0). The newest available version of PHP is recommended.
-* Note: If using Windows, PHP 4.3.6 or higher is strongly recommended ([www.php.net](https://www.php.net/)). Minimal testing has occurred with PHP5, so unless you want to test it for us, we recommend PHP4.
+* PHP 7.0.0 or higher.
+* ~PHP 4.2.0 or higher (certain features will be less optimized with PHP versions less than 4.3.0). The newest available version of PHP is recommended~.
+* ~Note: If using Windows, PHP 4.3.6 or higher is strongly recommended ([www.php.net](https://www.php.net/)). Minimal testing has occurred with PHP5, so unless you want to test it for us, we recommend PHP4~.
 
 ### Memory
 
