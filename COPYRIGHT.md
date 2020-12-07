@@ -1,4 +1,25 @@
-Bobb's File List and File Manage Systems Copyright 2004-2005 by the following:
+
+	Bobb’s File List 3.3.0
+	Copyright © 2020 Mohammad Anas Ramadan
+	https://richstyle.org
+	anas@richstyle.org
+
+Bobb’s File List is free software; you can redistribute it and/or modify
+it under the terms of the Affero General Public License 1.0 as
+published by Affero Inc.
+
+Bobb’s File List is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+Affero General Public License for more details.
+
+To read the license please view the file `LICENSE.md` packaged with this
+file, or visit:
+https://web.archive.org/web/20191123101252/http://www.affero.org/oagpl.html.
+
+---
+
+Bobb’s File List and File Manage Systems Copyright 2004-2005 by the following:
 
 Concept, original program, most PHP code, and most documentation by [Brandon Nimon](mailto:bnimon@users.sourceforge.net)
 
@@ -25,5 +46,5 @@ Testing done by:
 Special thanks to [Brian Erdelyi](mailto:brian_erdelyi@users.sourceforge.net) for security help.
 Brian helped emensly to fine tune the abstract security holes that were present.
 
-If you have contributed to Bobb's File List or File Manage System, you deserve to be on this list.
-Contact [Brandon Nimon](mailto:bnimon@users.sourceforge.net) and we'll add you.
+If you have contributed to Bobb’s File List or File Manage System, you deserve to be on this list.
+Contact [Brandon Nimon](mailto:bnimon@users.sourceforge.net) and we’ll add you.
