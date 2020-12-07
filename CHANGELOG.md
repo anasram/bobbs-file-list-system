@@ -1,12 +1,13 @@
 
-## 3.3.0 (2020-11-29)
+## 3.3.0 (2020-12-06)
 
 * New
 	* Default root directory is `/downloads`: `$root_dir= "/downloads";`.
 * Updated
+	* Refined the HTML output.
 	* Renamed the main file `filelist.php` to `downloads.php`.
 	* Replaced `ereg_replace()` function with `preg_replace()`, so that it can work now under PHP 7.0.0+.
-	* Standard date format: `YYYY-MM-DD HH:II` in a `<time>` element.
+	* Standard date format: `YYYY-MM-DD HH:II` within a `<time>` element.
 	* MIME type icons are Unicode emojis and client-side based, using [RichStyle](https://richstyle.org/) CSSs.
 
 ## 3.2.0 (2005-04-18)
@@ -15,11 +16,11 @@
 	* Added a HTML style to the program so links stand out more. (Bug: 1176560) (Brandon)
 	* Revamped HTML of revamped documentation. (Monica)
 * Updated
-	* Fixed new/updated notification. Wasn't working correctly for files. (Bug: 1176524) (Brandon)
-	* Fixed oversize text not having '...' at the end. (Bug: 1176469) (Brandon)
+	* Fixed new/updated notification. Wasn’t working correctly for files. (Bug: 1176524) (Brandon)
+	* Fixed oversize text not having "..." at the end. (Bug: 1176469) (Brandon)
 	* Changed quite a few variables from being rounded with `floor()` to `round()` which is more accurate for its purposes. (Bug: 1178757) (Brandon)
 	* Optimized the `allowed()` function. Switched it to argument-based instead of accessing global variables. Saved about 8 lines of code. (Bug: 1178755) (Brandon)
-	* Optimized the `flscandir()` function. Instead of doing it's own file testing it now uses `allowed()` to test them. Saved a few lines of code. (Bug: 1178753) (Brandon)
+	* Optimized the `flscandir()` function. Instead of doing it’s own file testing it now uses `allowed()` to test them. Saved a few lines of code. (Bug: 1178753) (Brandon)
 	* Revamped documentation. (Monica/Brandon)
 	* Fixed bug with all stats. (Bug: 1185356) (Brandon)
 
@@ -34,7 +35,7 @@
 * Updated
 	* Many bug fixes and many optimization and stabalizations. (Bug: 1175042) (Brandon)
 	* Fixed some displaying of files that should not be viewed. (Bug: 1175038) (Brandon)
-	* Fixed an issue that if the title or body HTML tags were capitolized the program wouldn't recognize them. (Bug: 1175039) (Brandon)
+	* Fixed an issue that if the title or body HTML tags were capitolized the program wouldn’t recognize them. (Bug: 1175039) (Brandon)
 
 ## 3.1.6 (2005-02-17)
 
@@ -82,9 +83,9 @@
 ## 3.0.8 (2004-11-05)
 
 * New
-	* In `non-lang`: The ability to scan all sub directories with the 'all stats' feature has been added. This replaced a less optimized, limited, and very lengthy set of code. (Bug: 1061179) (Brandon)
+	* In `non-lang`: The ability to scan all sub directories with the "all stats" feature has been added. This replaced a less optimized, limited, and very lengthy set of code. (Bug: 1061179) (Brandon)
 * Updated
-	* In `non-lang`: Fixed a bug where Windows' PHP would halt while 'all stats' was scanning files. It only occured on CGI-Windows PHP and only after a few thousand files/dirs were scanned. (Bug: 1054824) (Brandon)
+	* In `non-lang`: Fixed a bug where Windows’ PHP would halt while "all stats" was scanning files. It only occured on CGI-Windows PHP and only after a few thousand files/dirs were scanned. (Bug: 1054824) (Brandon)
 
 ## 3.0.6 (2004-10-27)
 
@@ -111,7 +112,7 @@
 ## 3.0.1 (2004-10-20)
 
 * New
-	* In both: Made the array generated of all files to write to a file to keep track of how many files there as a database. It logs, but isn't accessed yet. (part of bug: 1048094) (Brandon)
+	* In both: Made the array generated of all files to write to a file to keep track of how many files there as a database. It logs, but isn’t accessed yet. (part of bug: 1048094) (Brandon)
 * Updated
 	* Nothing.
 
@@ -171,7 +172,7 @@
 ## 2.8.6 (2004-10-06)
 
 * New
-	* Added file: COPYRIGHT which contains all the contributers to the Bobb's File List System (BFLS) since they hold the copyright. (bug: 1042078) (Brandon)
+	* Added file: COPYRIGHT which contains all the contributers to the Bobb’s File List System (BFLS) since they hold the copyright. (bug: 1042078) (Brandon)
 	* Added a notification of copyright and a link for more info at bottom of pages displayed. (part of bug: 1042080) (Brandon)
 * Updated
 	* Nothing.
@@ -182,7 +183,7 @@
 	* Nothing.
 * Updated
 	* Fixed an issue with the all stats where it started from base directory instead of file location (due to old programming). (bug: 1040954) (Brandon)
-	* Fixed a problem with the organize ordanary filename starts where it didn't work. (bug: 1040953) (Brandon)
+	* Fixed a problem with the organize ordanary filename starts where it didn’t work. (bug: 1040953) (Brandon)
 
 ## 2.8.3 (2004-10-04)
 
